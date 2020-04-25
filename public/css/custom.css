@@ -1,0 +1,17 @@
+#alert .alert-danger{
+    background: #ed6359;
+    padding: 9px;
+    margin-bottom: 15px;
+}
+#alert .alert-success{
+    background: #157d10ba;
+    padding: 9px;
+    margin-bottom: 15px;
+}
+#alert .alert {
+    color: #fff;
+    text-align: center;
+}
+/*.hamburger {*/
+    /*top: 31px;*/
+/*}*/
